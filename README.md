@@ -1,5 +1,5 @@
 # BrightNetworkUK-GCC-2021
-This repo is related to Google Coding Challenge, given to Bright Network Internship Experience 2021. Language used here is python.
+This repository is for the Google Coding Challenge Bright Network Internship Experience 2021.
 
 ## Requirements:
 - Python 3.7 or higher
