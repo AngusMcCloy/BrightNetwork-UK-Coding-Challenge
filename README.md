@@ -10,6 +10,3 @@ This repository is for the Google Coding Challenge Bright Network Internship Exp
 - Download the project
 - set CMD/terminal address to project dictionary (cd PROJECT_PATH)
 - And run Command: python -m pytest
-
-## All Test Pass - Screenshot:
-![All test Passed!](Screenshots/gcc.png)
